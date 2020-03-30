@@ -4,6 +4,8 @@ In today's time, cyber cryptographic algorithms are used to transfer electronic 
 
 SageMath is a free open-source mathematics software system licensed under the GPL. It builds on top of many existing open-source packages: `NumPy`, `SciPy`, `matplotlib`, `Sympy`, `Maxima`, `GAP`, `FLINT`, `R` and many more. Access their combined power through a common, Python-based language or directly via interfaces or wrappers.  
 
+![cooja schem](https://www.iotco.net/cryptosystem.jpg)
+
 ## including files of this repo  
 
 - Elliptic_Curves.ipynb	Rename Elliptic Curves.ipynb
