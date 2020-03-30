@@ -1,8 +1,11 @@
 # network security and cryptography systems
 
-- Elliptic Curves.ipynb
-- Sagemath and classic ciphers.ipynb
-- Secret Sharing.ipynb
+- Elliptic_Curves.ipynb	Rename Elliptic Curves.ipynb
+- Hash_Functions.ipynb	Rename Hash Functions.ipynb
+- Information-Theoretic_Security.ipynb
+- Sagemath_and_classic_ciphers.ipynb
+- Secret_Sharing.ipynb
+- Symmetric.ipynb
 
 #
 
