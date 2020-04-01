@@ -19,7 +19,7 @@ SageMath is a free open-source mathematics software system licensed under the GP
 - Symmetric.ipynb
 
 # note
-that currently, the notebook `Symmetric` requires python 3 (and not sagemath)  
+that currently, the notebook `Symmetric` requires **python 3** (and not sagemath)  
 
 #
 for course prof verticale course security polimi
