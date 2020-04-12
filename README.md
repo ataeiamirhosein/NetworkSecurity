@@ -22,4 +22,4 @@ SageMath is a free open-source mathematics software system licensed under the GP
 that currently, the notebook `Symmetric` requires **python 3** (and not sagemath)  
 
 #
-for course prof verticale course security polimi
+for course prof verticale, network security polimi
